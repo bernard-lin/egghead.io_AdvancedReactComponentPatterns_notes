@@ -1,4 +1,4 @@
-# Egghead.io Redux Course Notes
+# Egghead.io Advanced React Component Patterns Course Notes
 
 This repo contains notes from [Dan Abramov](https://github.com/gaearon)'s _excellent _[Redux video series](https://egghead.io/lessons/javascript-redux-the-single-immutable-state-tree).
 
