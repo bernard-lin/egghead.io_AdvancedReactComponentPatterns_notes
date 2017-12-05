@@ -1,6 +1,4 @@
-# 
-
-# ![](/assets/EGH_AdvPatterns.png)
+## ![](/assets/rsz_1egh_advpatterns.png)
 
 # Egghead.io Advanced React Component Patterns Course Notes
 
