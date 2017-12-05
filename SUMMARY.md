@@ -30,15 +30,15 @@
 
 14. [14 Use Component State Initializers.md](/14 Use Component State Initializers.md)
 
-15. [15 Make Controlled React Components with Control Props](/15 Make Controlled React Components with Control Props)
+15. [Make Controlled React Components with Control Props](/15 Make Controlled React Components with Control Props)
 
-16. [16 Implement a React Context Provider.md](/16 Implement a React Context Provider.md)
+16. [Implement a React Context Provider](/16 Implement a React Context Provider.md)
 
-17. [17 Implement a Higher Order Component with Render Props.md](/17 Implement a Higher Order Component with Render Props.md)
+17. [Implement a Higher Order Component with Render Props](/17 Implement a Higher Order Component with Render Props.md)
 
-18. [18 Rerender Descendants Through shouldComponentUpdate.md](/18 Rerender Descendants Through shouldComponentUpdate.md)
+18. [Rerender Descendants Through shouldComponentUpdate](/18 Rerender Descendants Through shouldComponentUpdate.md)
 
-19. [19 Use Redux with Render Props.md](/19 Use Redux with Render Props.md)
+19. [Use Redux with Render Props](/19 Use Redux with Render Props.md)
 
 
 
