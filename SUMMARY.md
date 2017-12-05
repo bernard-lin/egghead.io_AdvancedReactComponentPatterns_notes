@@ -6,6 +6,10 @@
 
 2. [Build a Toggle Component](/02 Build a Toggle Component.md)
 
-3. 
+3. [Write Compound Components](/03 Write Compound Components.md)
+
+4. [Make Compound React Components Flexible](/04 Make Compound React Components Flexible.md)
+
+5. 
 
 
