@@ -30,7 +30,7 @@
 
 14. [Use Component State Initializers](/14 Use Component State Initializers.md)
 
-15. [Make Controlled React Components with Control Props](/15 Make Controlled React Components with Control Props)
+15. [Make Controlled React Components with Control Props](/15 Make Controlled React Components with Control Props.md)
 
 16. [Implement a React Context Provider](/16 Implement a React Context Provider.md)
 
